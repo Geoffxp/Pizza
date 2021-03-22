@@ -1,2 +1,1 @@
-# Pizza
-Test for Thinkful
+# pizza
